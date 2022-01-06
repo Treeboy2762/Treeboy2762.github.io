@@ -14,7 +14,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: thiagorossener
+author: daesungkim
 paginate: true
 ---
 {{ site.time | date: '%B %d, %Y %r' }}
