@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Saint's Tower
+title: 큰별타워 | (대성타워)
+description: 올라가서 별구경해용
 tags:
   - blog
   - template
@@ -21,7 +20,7 @@ menu:
     url: /feed.xml
 email: kkds7403@naver.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: treeboy2762
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
@@ -33,7 +32,7 @@ github_username: Treeboy2762
 # facebook_username: facebook_username
 # twitter_username: twitter_username
 instagram_username: daxingdaxing
-linkedin_username: Daesung Kim
+linkedin_username: daesung-kim-1a14421b2
 # medium_username: medium_username
 
 

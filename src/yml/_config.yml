@@ -12,6 +12,7 @@
 #=include advanced.yml
 
 # Build settings
+timezone: Asia/Seoul
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/

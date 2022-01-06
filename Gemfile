@@ -7,3 +7,5 @@ gem "jekyll"
 gem "jekyll-paginate"
 gem "jekyll-paginate-content"
 gem "json"
+gem "tzinfo"
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
