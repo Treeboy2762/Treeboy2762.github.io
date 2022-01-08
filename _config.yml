@@ -37,6 +37,7 @@ linkedin_username: daesung-kim-1a14421b2
 
 
 # Posts Settings
+timezone: Asia/Seoul
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true

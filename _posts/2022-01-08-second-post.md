@@ -14,7 +14,7 @@ tags:
 author: daesungkim
 paginate: true
 ---
-{{ site.time | date: '%B %d, %Y %r' }}
+Date Published: {{ site.time | date: '%B %d, %Y %r' }}
 
 근데 이거 포스트 쓰는게 너무 귀찮다... 다른 사람들도 vscode에서 포스트를 쓰는 이 불편함을 감수하고 쓰는걸까? Jekyll로 블로그 만드는건 어렵지 않은 거 같은데..
 
