@@ -82,6 +82,7 @@ imputer = KNNImputer(n_neighbors=3)
 
 근데... 그냥 셋다 버려버리는 것만도 못한 정확도가 나왔다 ㅠㅠ.
 !['MAE'](/assets/img/posts/post3_MAE.jpg "MAE (my approach)")
+(다 버리는건 17837....)
 ## Categorical Variables
 
 지금까지 난 pd.get_dummies(df, columns=['a', 'b']) 써서 했는데, 여기선 sklearn.preprocessing 모듈을 사용한다.
