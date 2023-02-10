@@ -55,6 +55,8 @@ sent_message_url: "/contact/message-sent/"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: katex
 highlighter: rouge
 permalink: /:title/
 collections:
