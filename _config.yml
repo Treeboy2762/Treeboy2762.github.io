@@ -50,7 +50,7 @@ defaults:
 # Syntax
 markdown: kramdown
 kramdown:
-  math_engine: katex
+  math_engine: null
 highlighter: rouge
 
 # Paginate
