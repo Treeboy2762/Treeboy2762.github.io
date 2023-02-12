@@ -5,9 +5,9 @@ subtitle: Introduction, missing values, categorical variables, and pipelines
 description: >-
   결측치 처리, 범주형 변수 변환, 파이프라인을 복습해보자.
 image: >-
-  /assets/img/posts/post3_submission.jpg
+  assets/img/posts/post3_submission.jpg
 optimized_image: >-
-  /assets/img/posts/post3_submission.jpg
+  assets/img/posts/post3_submission.jpg
 category: blog
 tags:
   - blog

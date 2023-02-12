@@ -5,9 +5,9 @@ subtitle: SSD로 사용하고 싶은데 자꾸 time machine으로 인식된다.
 description: >-
   After *accidentally* clicking on time machine, Mac keeps recognizing the SSD as a backup drive
 image: >-
-  /assets/img/posts/post4_success.png
+  assets/img/posts/post4_success.png
 optimized_image: >-
-  /assets/img/posts/post4_success.png
+  assets/img/posts/post4_success.png
 category: blog
 tags:
   - blog

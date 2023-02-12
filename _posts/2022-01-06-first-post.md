@@ -5,9 +5,9 @@ subtitle: '사실 별 의미는 없다.'
 description: >-
   Celebration of the website launch.
 image: >-
-  /assets/img/posts/post1_1.jpg
+  assets/img/posts/post1_1.jpg
 optimized_image: >-
-  /assets/img/posts/post1_1.jpg
+  assets/img/posts/post1_1.jpg
 category: blog
 tags:
   - blog

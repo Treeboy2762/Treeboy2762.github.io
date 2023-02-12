@@ -5,9 +5,9 @@ subtitle: Linux on VirtualBox
 description: >-
   VirtualBox에서 Linux를 설치해 vim과 grep을 사용해 보자.
 image: >-
-  /assets/img/posts/post2_2.png
+  assets/img/posts/post2_2.png
 optimized_image: >-
-  /assets/img/posts/post2_1.png
+  assets/img/posts/post2_1.png
 category: blog
 tags:
   - blog
@@ -24,7 +24,7 @@ Date Published: {{ site.time | date: '%B %d, %Y %r' }}
 
 1. 설치 도중 계속하기 버튼이 잘림
 
-  [Alt F7](https://askubuntu.com/questions/755196/i-cant-see-the-next-button-ubuntu-installation-on-vmware) 을 사용해 버튼을 찾아준다.
+  [Alt F7](/https://askubuntu.com/questions/755196/i-cant-see-the-next-button-ubuntu-installation-on-vmware) 을 사용해 버튼을 찾아준다.
 
 2. cd 를 하려는데 한글을 못침
 
