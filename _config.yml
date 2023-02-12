@@ -2,7 +2,7 @@
 name: "Daesung's Tower"
 description: '천천히 쌓아봅쉬다..'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: '/assets/images/favicon.ico'
 baseurl: ''
 disqus: 'daesungkim'
 email: 'treeboy2762@gmail.com'
@@ -54,7 +54,9 @@ defaults:
 markdown: kramdown
 kramdown:
   math_engine: katex
-highlighter: rouge
+  input: GFM
+  syntax_highlighter: rouge
+
 
 # Paginate
 paginate: 10

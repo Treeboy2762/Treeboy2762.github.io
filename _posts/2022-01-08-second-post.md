@@ -5,9 +5,9 @@ subtitle: Linux on VirtualBox
 description: >-
   VirtualBox에서 Linux를 설치해 vim과 grep을 사용해 보자.
 image: >-
-  assets/img/posts/post2_2.png
+  /assets/img/posts/post2_2.png
 optimized_image: >-
-  assets/img/posts/post2_1.png
+  /assets/img/posts/post2_1.png
 category: blog
 tags:
   - blog
