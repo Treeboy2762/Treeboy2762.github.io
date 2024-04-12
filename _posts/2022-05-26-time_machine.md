@@ -18,7 +18,7 @@ Date Published: {{ site.time | date: '%B %d, %Y %r' }}
 
 Weird phenomenon.
 
-For some unfathomable reasons, my dear Jihoo used her Samsung T7 SSD as a time machine backup drive. The problem is, as the drive is recognized as a AFPS backup drive, it is "read-only." Surprisingly, other Mac devices normally recognize the problematic SSD as a normal external drive. I tried removing disk from Time Machine (in the preferences) but yielded no fruits.
+I have a Samsung T7 SSD for time machine backup drive. The problem is, as the drive is recognized as a AFPS backup drive, it is "read-only." Surprisingly, other Mac devices normally recognize the problematic SSD as a normal external drive. I tried removing disk from Time Machine (in the preferences) but yielded no fruits.
 
 ## Solution
 
